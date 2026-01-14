@@ -5,7 +5,7 @@
   const ctx = canvas.getContext('2d');
 
   const opts = {
-    strings: ["HAPPY", "MAKAR SANKRANTI CUTIES"],   // change text here
+    strings: ["HAPPY", "MAKAR SANKRANTI"],   // change text here
     charSize: 44,
     charSpacing: 62,
     lineHeight: 72,
